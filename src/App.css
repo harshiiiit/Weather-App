@@ -1,0 +1,56 @@
+body {
+    background-image: url('/imgs/X49EwD0-478922033.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Adjust the height to cover the full viewport height */
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  form {
+    margin-bottom: 20px; /* Add some margin below the form */
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 4px;
+    border: none;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    border: none;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  h1 {
+    margin-top: 0;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin: 5px 0;
+  }
+  
+  .error-message {
+    color: red;
+    font-weight: bold;
+  }
+  
+  
